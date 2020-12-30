@@ -1,0 +1,14 @@
+body {
+  margin:0;
+}
+
+header {
+  background:#333;
+  color:white;
+  padding: 2rem 5vw;
+}
+
+nav{
+  display:flex;
+  gap:1rem;
+}
